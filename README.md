@@ -1,8 +1,5 @@
 # Nurikabe solver
 
-## Introduction 
-This program uses a back-tracking algorithm to solve a nurikabe puzzle of no more than 40 units in total.
-
 ## What is a nurikabe puzzle?
 Each puzzle consists of a grid containing clues in various places. The objective is to create islands by partitioning between clues with walls so:
 
