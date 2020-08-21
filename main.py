@@ -401,6 +401,4 @@ class Grilla:
 
 g = Grilla(f"./puzzles/{sys.argv[1]}")
 if len(sys.argv) == 3: g.timer = float(sys.argv[2])
-# print(numpy.array(g.grilla))
-# print(g.ya_esta_solucion)
 g.resolver_nurikabe("./puzzles/test1sol")
