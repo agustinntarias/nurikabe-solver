@@ -9,6 +9,8 @@ Each puzzle consists of a grid containing clues in various places. The objective
 + There are no wall areas of 2x2 or larger.
 + When completed, all walls form a continuous path.
 
+Each puzzle will be represented as a 2 dimentional matrix where each element is either a digit (0-9) or a wall ('#') or an empty space ('.').
+
 ## Program
 The program is run by typing
 
